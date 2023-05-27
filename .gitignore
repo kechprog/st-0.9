@@ -2,3 +2,8 @@ hb.o
 patch
 st
 st.c.orig
+st.o
+win.h.rej
+x.c.orig
+x.c.rej
+x.o
